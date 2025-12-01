@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Praveen+Bhandari;Full+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Praveen+Bhandari;Full+Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p>
@@ -44,11 +44,11 @@ I am a developer based in **India 🌍** with a passion for algorithms and build
 <br/>
 
 <a href="https://github.com/Praveencity">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveencity&langs_count=8&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&layout=donotusecompact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveencity&langs_count=8&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Praveencity">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Praveencity&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveencity&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&include_all_commits=true"/>
 </a>
 
 </div>
