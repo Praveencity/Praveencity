@@ -6,7 +6,7 @@ I'm currently learning **Full Stack Development** and **DSA with problem solving
 
 - 🌍 I'm based in **India**
 - ✉️ You can contact me at **[praveenbhandari0987@gmail.com](mailto:praveenbhandari0987@gmail.com)**
-- 🚀 I'm currently working on **[Memory Management Visualizer](https://github.com/Praveencity/Praveencity/Memory-Management-Visualizer)**
+- 🚀 I'm currently working on **[Memory Management Visualizer](https://github.com/Praveencity/Memory-Management-Visualizer)**
 - 🧠 I'm currently learning **DSA** and **Frontend**
 
 ---
