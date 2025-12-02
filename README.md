@@ -28,13 +28,12 @@ I'm a passionate **Full Stack Developer** from 🇮🇳 who loves building perfo
 </div>
 
 ---
-
 ## 📊 **GitHub Stats**
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveencity&layout=compact&langs_count=8&theme=radical&title_color=a855f7&text_color=ffffff&icon_color=8b5cf6&bg_color=1a1b27&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praveencity&theme=2077" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveencity&theme=dark&hide_border=true&background=1a1b27&ring=8b5cf6&fire=8b5cf6&currStreakLabel=a855f7&currStreakNum=ffffff" height="180" alt="Current Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveencity&theme=2077" alt="Profile Details" />
 
 </div>
 
