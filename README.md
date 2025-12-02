@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 **About Me**
-I'm a passionate **Full Stack Developer** from 🇮🇳 who loves building performant apps and exploring low-level concepts like **OS, Memory Management & DSA**.
+I'm a passionate **Full Stack Developer** from Uttarakhand India who loves building performant apps and exploring low-level concepts like **OS, Memory Management & DSA**.
 
 - 🔭 **Currently working on:** 📌 *Memory Management Visualizer* → [GitHub Repo](https://github.com/Praveencity/Memory-Management-Visualizer)
 
